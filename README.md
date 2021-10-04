@@ -13,10 +13,7 @@ Sou estudante de Engenharia da Computação
  #
   
  #  Estudando  :nerd_face:
-  - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-  - <img height="23" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  
-#
-# Interesses :nerd_face:
-   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-#
+   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+   <img height="35" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   
