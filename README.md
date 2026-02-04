@@ -1,5 +1,5 @@
 ### Olá boa tarde/boa noite 👋
-Sou estudante de Engenharia da Computação
+Sou estudante de Engenharia de Software 
 
 
 ## SO
